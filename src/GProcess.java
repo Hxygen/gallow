@@ -94,10 +94,12 @@ public class GProcess {
 
 
         }
-sdfsdfsdfsf
+
         if(youWinner){
 
             System.out.println("Вы выиграли!");
+
+            .....
 
         } else {
 
