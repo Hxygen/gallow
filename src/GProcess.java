@@ -99,6 +99,8 @@ public class GProcess {
 
             System.out.println("Вы выиграли!");
 
+            .....
+
         } else {
 
             System.out.println("Вы проиграли!");
